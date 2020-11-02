@@ -1,0 +1,14 @@
+html {
+    background-color:black;
+}
+body {
+    width: 780px;
+    margin:0 auto;
+    background-color:black;
+    padding: 0 5px 5px 5px;
+
+}
+img {
+    display: block;
+    margin: 0 auto;
+}

@@ -1,2 +1,1 @@
-# joanalynfloresbetonio14.github.io
-lab-activity 4
+# joanalynfloresbetonio14.github

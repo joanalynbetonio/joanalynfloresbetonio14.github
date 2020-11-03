@@ -1,14 +1,19 @@
 html {
-    background-color:black;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    font-size: 15px;
 }
-body {
-    width: 780px;
-    margin:0 auto;
-    background-color:black;
-    padding: 0 5px 5px 5px;
-
+.note {
+    color: red;
 }
-img {
-    display: block;
-    margin: 0 auto;
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+}
+th {
+    text-align: center;
+    background-color: rgb(109, 151, 168);
+}
+table {
+    border-spacing: 1px;
 }
